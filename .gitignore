@@ -20,6 +20,6 @@ build/*
 # Exclude log files
 *.log
 
-# Exclude Fonts
+# Exclude Fonts 
 _fonts/
  
